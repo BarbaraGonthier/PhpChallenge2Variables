@@ -1,0 +1,4 @@
+$movieTitle= 'Indiana Jones and the Last Crusade'; 
+$alreadyWatched= true;
+$yearOfRelease= 1989;
+$MovieRateOnImbd= 8.2;
